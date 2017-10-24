@@ -1,16 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Properties Portal
+## Properties Portal
 
-### `npm start` To Start
+### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Runs server in the development mode <br>
+Need to run server in the development mode <br> [http://localhost:5000](http://localhost:5000)
 
-## Features?
+## Features
 
 1. Frontend portal developed with react, redux
-2. Responsive design 
-3. Resemble single property portal for owners
+2. Responsive design
+3. Property portal for owners
