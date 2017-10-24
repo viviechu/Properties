@@ -1,0 +1,2 @@
+export const LOAD_PROPERTIES = 'LOAD_PROPERTIES'
+export const LOAD_OWNERS = 'LOAD_OWNERS'
